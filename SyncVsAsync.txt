@@ -1,0 +1,9 @@
+Async : one task is running ok doesn't matter stsat another task
+Sync : one task is runnig let it finish than we'll start another one
+
+hence Sync may break entire system so better ride with Async
+
+use Promises and async/await
+
+.gitignore contains folder which is to be ignored by github as there size is big and they are not needed to be uploaded.
+Ex. node_modules
